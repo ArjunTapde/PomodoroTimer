@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1616136618292" clover="3.2.0">
-  <project timestamp="1616136618292" name="All files">
+<coverage generated="1616785110117" clover="3.2.0">
+  <project timestamp="1616785110118" name="All files">
     <metrics statements="619" coveredstatements="619" conditionals="108" coveredconditionals="108" methods="42" coveredmethods="42" elements="769" coveredelements="769" complexity="0" loc="619" ncloc="619" packages="2" files="8" classes="8"/>
     <package name="components">
       <metrics statements="467" coveredstatements="467" conditionals="38" coveredconditionals="38" methods="33" coveredmethods="33"/>
-      <file name="HelpPopUp.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/components/HelpPopUp.js">
+      <file name="HelpPopUp.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/components/HelpPopUp.js">
         <metrics statements="97" coveredstatements="97" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
         <line num="10" count="3" type="stmt"/>
         <line num="11" count="3" type="stmt"/>
@@ -104,7 +104,7 @@
         <line num="223" count="1" type="stmt"/>
         <line num="225" count="1" type="stmt"/>
       </file>
-      <file name="ResetPopUp.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/components/ResetPopUp.js">
+      <file name="ResetPopUp.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/components/ResetPopUp.js">
         <metrics statements="58" coveredstatements="58" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
         <line num="11" count="3" type="stmt"/>
         <line num="12" count="3" type="stmt"/>
@@ -165,7 +165,7 @@
         <line num="196" count="1" type="stmt"/>
         <line num="198" count="1" type="stmt"/>
       </file>
-      <file name="SettingsPopUp.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/components/SettingsPopUp.js">
+      <file name="SettingsPopUp.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/components/SettingsPopUp.js">
         <metrics statements="155" coveredstatements="155" conditionals="10" coveredconditionals="10" methods="8" coveredmethods="8"/>
         <line num="11" count="7" type="stmt"/>
         <line num="12" count="7" type="stmt"/>
@@ -323,7 +323,7 @@
         <line num="440" count="1" type="stmt"/>
         <line num="442" count="1" type="stmt"/>
       </file>
-      <file name="TaskItem.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/components/TaskItem.js">
+      <file name="TaskItem.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/components/TaskItem.js">
         <metrics statements="87" coveredstatements="87" conditionals="24" coveredconditionals="24" methods="11" coveredmethods="11"/>
         <line num="11" count="8" type="stmt"/>
         <line num="13" count="8" type="stmt"/>
@@ -413,7 +413,7 @@
         <line num="244" count="41" type="stmt"/>
         <line num="248" count="4" type="stmt"/>
       </file>
-      <file name="TaskPopUp.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/components/TaskPopUp.js">
+      <file name="TaskPopUp.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/components/TaskPopUp.js">
         <metrics statements="70" coveredstatements="70" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
         <line num="13" count="3" type="stmt"/>
         <line num="14" count="3" type="stmt"/>
@@ -489,7 +489,7 @@
     </package>
     <package name="scripts">
       <metrics statements="152" coveredstatements="152" conditionals="70" coveredconditionals="70" methods="9" coveredmethods="9"/>
-      <file name="FocusMode.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/scripts/FocusMode.js">
+      <file name="FocusMode.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/scripts/FocusMode.js">
         <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
         <line num="8" count="21" type="stmt"/>
         <line num="9" count="21" type="stmt"/>
@@ -506,7 +506,7 @@
         <line num="26" count="4" type="stmt"/>
         <line num="27" count="4" type="stmt"/>
       </file>
-      <file name="Timer.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/scripts/Timer.js">
+      <file name="Timer.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/scripts/Timer.js">
         <metrics statements="112" coveredstatements="112" conditionals="57" coveredconditionals="57" methods="7" coveredmethods="7"/>
         <line num="1" count="26" type="stmt"/>
         <line num="2" count="26" type="stmt"/>
@@ -621,7 +621,7 @@
         <line num="192" count="26" type="cond" truecount="2" falsecount="0"/>
         <line num="193" count="1" type="stmt"/>
       </file>
-      <file name="script.js" path="/home/runner/work/cse110-w21-group13/cse110-w21-group13/source/src/scripts/script.js">
+      <file name="script.js" path="/home/runner/work/PomodoroTimer/PomodoroTimer/source/src/scripts/script.js">
         <metrics statements="26" coveredstatements="26" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
         <line num="3" count="1" type="stmt"/>
         <line num="10" count="4" type="cond" truecount="7" falsecount="0"/>
